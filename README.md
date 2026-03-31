@@ -1,44 +1,94 @@
-# [项目名称]
+# CatFoxJun · 俊俊菌个人介绍
 
-![项目封面图](图片链接，建议放在仓库内，避免外链失效)
+🚀 **独立游戏开发者 | 全栈工程师 | 创意实践者**
 
+---
+
+## 🧑‍💻 关于我
+
+你好，我是**俊俊菌**，一名致力于独立游戏开发与全栈技术的创作者。  
+我相信“就算步伐很小，也要步步前进”，始终在编码、设计与创意的交汇处探索可能性。
+
+- 🎮 独立游戏开发作者，学习中...
+- 🌐 具备完整的 Web 前后端开发能力，从界面到服务器均可一手搭建
+- 🎨 热爱美术与音乐，常从多元艺术形式中汲取灵感
+- ☕ 喜欢品尝精品咖啡，也喜欢在星空下思考与放松
+
+> “技术是骨架，创意是灵魂——我一直在路上。”
+
+---
+
+## 🛠️ 技术栈
+
+### 前端开发
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 后端与游戏开发
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+### 开发工具与平台
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe_CC-DA1F26?style=flat&logo=adobe&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=flat&logo=flstudio&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+---
+
+## 📅 时间线
+
+### 2025 - 至今
+**省级 Ubuntu 树莓派编程比赛**  
+在团队中担任关键角色，负责核心模块开发与系统整合
+
+### 2025年3月
+**个人博客上线**  
+使用静态生成器搭建了个人博客站点.
+
+---
+
+## 📖 数字日志 | Digital Log
+
+<p align="center">
+  <a href="https://aejunjun.github.io/CatFoxBoke/">
+    <img src="https://custom-icon-badges.demolab.com/badge/点击访问-俊俊的空间-7E3ACE?style=for-the-badge&logo=book&logoColor=white" alt="博客徽章" />
+  </a>
+</p>
+
+> 一个**深色模式优先**的静态站点，承载思考、代码与创造。  
+> 每篇文章都在本地构建，确保速度、隐私与纯粹的表达。
+
+
+**📌 近期更新:**
+- 🆕 游戏开发中的状态机设计模式实践
+- 🔧 Ubuntu 服务器安全加固指南
+- 🎵 如何为独立游戏创作氛围音乐
+- 💡 React 性能优化：从理论到实战
+
+---
+
+## 📡 连接网络 | Connect
 <div align="center">
-
-[![GitHub Stars](https://img.shields.io/github/stars/你的用户名/仓库名?style=flat-square)](https://github.com/你的用户名/仓库名/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/你的用户名/仓库名?style=flat-square)](https://github.com/你的用户名/仓库名/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/你的用户名/仓库名?style=flat-square)](https://github.com/你的用户名/仓库名/issues)
-[![GitHub License](https://img.shields.io/github/license/你的用户名/仓库名?style=flat-square)](https://github.com/你的用户名/仓库名/blob/main/LICENSE)
-[![Release Version](https://img.shields.io/github/v/release/你的用户名/仓库名?style=flat-square)](https://github.com/你的用户名/仓库名/releases)
-[![CI Status](https://img.shields.io/github/actions/workflow/status/你的用户名/仓库名/ci.yml?branch=main&style=flat-square)](https://github.com/你的用户名/仓库名/actions)
+  
+| 通道 | 链接 | 描述 |
+|------|------|------|
+| 📧 **邮件** | [Catfox_junjun@outlook.com](mailto:Catfox_junjun@outlook.com) | 商务合作、技术交流 |
+| 🏠 **博客** | [aejunjun.github.io/CatFoxBoke/](https://aejunjun.github.io/CatFoxBoke/) | 文章、笔记、思考 |
+| 💼 **GitHub** | [github.com/AEjunjun](https://github.com/AEjunjun) | 项目、代码、贡献 |
+| 🎮 **Itch.io** | *即将上线* | 游戏作品发布页 |
 
 </div>
 
-## 📖 项目简介
-[一句话核心定位：项目是什么，解决了什么痛点，核心价值是什么]
+---
 
-### ✨ 核心亮点
-- 亮点1：比如「开箱即用，零配置快速上手」
-- 亮点2：比如「高性能，比同类方案提升X%效率」
-- 亮点3：比如「跨平台兼容，支持Windows/Mac/Linux」
-- 亮点4：比如「完善的文档与社区支持，持续迭代维护」
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20,30&height=100&section=footer&text=就算步伐很小，也要步步前进&fontSize=20&fontColor=fff&animation=fadeIn" alt="页脚横幅" />
+</p>
 
-## 🚀 快速开始
-
-### 环境依赖
-| 依赖         | 版本要求       | 说明                     |
-|--------------|----------------|--------------------------|
-| Node.js      | >= 16.0.0      | 前端项目示例，按需修改   |
-| Python       | >= 3.8         | 后端项目示例，按需修改   |
-| Docker       | >= 20.10       | 容器化部署可选           |
-
-### 安装方式
-#### 方式1：包管理器安装（推荐）
-```bash
-# npm 示例
-npm install [包名] --save
-
-# pip 示例
-pip install [包名]
-
-# go 示例
-go get github.com/你的用户名/仓库名
+<p align="center">
+  <sub><i>本空间持续进化中 · 最后更新于 2025.03.30</i></sub>
+  <br/>
+  <sub>© 2025 CatFoxJun · 代码构建，思想驱动</sub>
+</p>
