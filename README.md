@@ -1,4 +1,4 @@
-# CatFoxJun · 俊俊菌个人介绍
+# FerrDom-Fz · 辞楚个人介绍
 
 🚀 **独立游戏开发者 | 全栈工程师 | 创意实践者**
 
@@ -6,8 +6,8 @@
 
 ## 🧑‍💻 关于我
 
-你好，我是**俊俊菌**，一名致力于独立游戏开发与全栈技术的创作者。  
-我相信“就算步伐很小，也要步步前进”，始终在编码、设计与创意的交汇处探索可能性。
+你好，我是**辞楚**，一名致力于独立游戏开发与全栈技术的创作者。  
+我相信“自由是一阵风，风往哪走我往哪走”，始终在编码、设计与创意的交汇处探索可能性。
 
 - 🎮 独立游戏开发作者，学习中...
 - 🌐 具备完整的 Web 前后端开发能力，从界面到服务器均可一手搭建
@@ -69,22 +69,8 @@
 
 ---
 
-## 📡 连接网络 | Connect
-<div align="center">
-  
-| 通道 | 链接 | 描述 |
-|------|------|------|
-| 📧 **邮件** | [Catfox_junjun@outlook.com](mailto:Catfox_junjun@outlook.com) | 商务合作、技术交流 |
-| 🏠 **博客** | [aejunjun.github.io/CatFoxBoke/](https://aejunjun.github.io/CatFoxBoke/) | 文章、笔记、思考 |
-| 💼 **GitHub** | [github.com/AEjunjun](https://github.com/AEjunjun) | 项目、代码、贡献 |
-| 🎮 **Itch.io** | *即将上线* | 游戏作品发布页 |
-
-</div>
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20,30&height=100&section=footer&text=就算步伐很小，也要步步前进&fontSize=20&fontColor=fff&animation=fadeIn" alt="页脚横幅" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20,30&height=100&section=footer&text=自由是一阵风，风往哪走我往哪走&fontSize=20&fontColor=fff&animation=fadeIn" alt="页脚横幅" />
 </p>
 
 <p align="center">
